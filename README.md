@@ -1,5 +1,6 @@
 ### Статус сборки
 
+[![Build status](https://ci.appveyor.com/api/projects/status/w0l5fti311qv255j?svg=true)](https://ci.appveyor.com/project/melnikonayana/react-composition)
 
 ### Ссылка на GitHub Pages
 
