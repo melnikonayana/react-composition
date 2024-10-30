@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-composition/static/css/main.f0932e6c.css",
+    "main.js": "/react-composition/static/js/main.f76af345.js",
+    "static/media/flower.jpg": "/react-composition/static/media/flower.de06d6bf3311d4930d86.jpg",
+    "index.html": "/react-composition/index.html",
+    "main.f0932e6c.css.map": "/react-composition/static/css/main.f0932e6c.css.map",
+    "main.f76af345.js.map": "/react-composition/static/js/main.f76af345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0932e6c.css",
+    "static/js/main.f76af345.js"
+  ]
+}
